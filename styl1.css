@@ -1,0 +1,236 @@
+.div {
+    border: 1px solid ;
+    width: 500px;
+    height: 600px;
+    background-image: linear-gradient(-45deg, red, rgb(0, 242, 255), rgb(255, 251, 0));
+    border-radius: 20px;
+    margin-top: 600px;
+    position: relative;
+    left: 500px;
+    bottom: 20px;
+}
+.a {
+    border: 1px solid;
+    border-radius: 50%;
+    width: 180px;
+    height: 180px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    top: 60px;
+    left: 175px;
+}
+img {
+    border-radius: 60%;
+}
+.d {
+    position: relative;
+    top: 60px;
+    left: 140px;
+}
+p {
+    position: relative;
+    left: 70px;
+}
+.s {
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.bx {
+    border: 1px solid;
+    border-radius: 50%;
+    text-align: center;
+    padding: 10px;
+}
+
+
+.div1 {
+    border: 1px solid ;
+    width: 500px;
+    height: 600px;
+    background-image: linear-gradient(-45deg, red, rgb(0, 38, 255), rgb(38, 255, 0));
+    border-radius: 20px;
+    /* margin-left: 550px; */
+    margin-top: -620px;
+    position: relative;
+    left: 1040px;
+}
+.a1 {
+    border: 1px solid;
+    border-radius: 50%;
+    width: 180px;
+    height: 180px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    top: 60px;
+    left: 175px;
+}
+img {
+    border-radius: 60%;
+}
+.d1 {
+    position: relative;
+    top: 60px;
+    left: 140px;
+}
+p {
+    position: relative;
+    left: 70px;
+}
+.s1 {
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.bx {
+    border: 1px solid;
+    border-radius: 50%;
+    text-align: center;
+    padding: 10px;
+}
+
+
+.div2 {
+    border: 1px solid ;
+    width: 500px;
+    height: 600px;
+    background-image: linear-gradient(-45deg, red, rgb(0, 38, 255), rgb(38, 255, 0));
+    border-radius: 20px;
+    /* margin-left: 1100px; */
+    margin-top: -600px;
+    position: relative;
+    left: 1600px;
+}
+.a2 {
+    border: 1px solid;
+    border-radius: 50%;
+    width: 180px;
+    height: 180px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    top: 60px;
+    left: 175px;
+}
+img {
+    border-radius: 60%;
+}
+.d2 {
+    position: relative;
+    top: 60px;
+    left: 140px;
+}
+p {
+    position: relative;
+    left: 70px;
+}
+.s2 {
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.bx {
+    border: 1px solid;
+    border-radius: 50%;
+    text-align: center;
+    padding: 10px;
+}
+
+
+.bb3 {
+    border: 1px solid ;
+    width: 500px;
+    height: 600px;
+    background-image: linear-gradient(-45deg, red, rgb(0, 38, 255), rgb(38, 255, 0));
+    border-radius: 20px;
+    margin-top: -460px;
+    position: relative;
+    left: 550px;
+}
+.a3 {
+    border: 1px solid;
+    border-radius: 50%;
+    width: 180px;
+    height: 180px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    top: 60px;
+    left: 175px;
+}
+img {
+    border-radius: 60%;
+}
+.d3 {
+    position: relative;
+    top: 60px;
+    left: 140px;
+}
+p {
+    position: relative;
+    left: 70px;
+}
+.s3 {
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.bx {
+    border: 1px solid;
+    border-radius: 50%;
+    text-align: center;
+    padding: 10px;
+}
+
+
+.mm4 {
+    border: 1px solid ;
+    width: 500px;
+    height: 600px;
+    background-image: linear-gradient(-45deg, red, rgb(0, 38, 255), rgb(38, 255, 0));
+    border-radius: 20px;
+    margin-top: -460px;
+    position: relative;
+    left: 550px;
+}
+.a4 {
+    border: 1px solid;
+    border-radius: 50%;
+    width: 180px;
+    height: 180px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    top: 60px;
+    left: 175px;
+}
+img {
+    border-radius: 60%;
+}
+.d4 {
+    position: relative;
+    top: 60px;
+    left: 140px;
+}
+p {
+    position: relative;
+    left: 70px;
+}
+.s4 {
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.bx {
+    border: 1px solid;
+    border-radius: 50%;
+    text-align: center;
+    padding: 10px;
+}
+
+body {
+    background-image: linear-gradient(-45deg, rgb(212, 114, 114), rgb(251, 222, 5), rgb(179, 35, 35));
+    height: 100vh;
+}
